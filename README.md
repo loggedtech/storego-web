@@ -46,7 +46,7 @@ src/
 ├── lib/          # Utilitários
 ├── hooks/        # Hooks personalizados
 ├── types/        # Tipos TypeScript
-└── styles/       # Estilos globais
+└── styles/      # Estilos globais
 ```
 
 ## Documentação
